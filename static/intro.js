@@ -9,7 +9,7 @@ const headingTextLoad = () => {
     }, 0);
     setTimeout(() => {
         headingText.textContent = "Developer";
-    }, 4000);
+    }, 2000);
 };
 headingTextLoad();
-setInterval(headingTextLoad, 8000);
+setInterval(headingTextLoad, 4000);
