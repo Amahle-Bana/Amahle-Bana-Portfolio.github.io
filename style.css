@@ -108,6 +108,11 @@ a{
     background-color: transparent;
 }
 
+.nav_container .nav_items .nav_logo a {
+    color: rgb(93, 223, 42);
+    text-decoration: none;
+}
+
 /* NAV ITEM */
 .nav_container .nav_items li {
     font-family: 'Silkscreen', sans-serif;
